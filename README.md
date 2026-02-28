@@ -6,4 +6,4 @@ The older bash scripts are usefull but i still have to type the correct name int
 With this project,a rewritten java version of the script,i'll address the issues and practice java.
 
 ### Usage
-This new implementation will provide an rpm file ready to install.
+This new implementation will be provided as an rpm file ready to install.
