@@ -1,5 +1,5 @@
 # JAVA-dnglab_script
-Modified Java version of the dnglab_install-sctipt project
+Modified Java version of the dnglab_install-script project
 
 ## Motivation
 The older bash scripts are usefull but i still have to type the correct name into the terminal,their objectives have been satisfied and want to provide more convinience.
